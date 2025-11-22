@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h1 align="center">👋 Salut, je suis <span style="color:#ff4dd2">Assia Sannen</span></h1>
+<h1 align="center">👋 Salut, je suis <span style="color:#ff4dd2">Essia Sannen</span></h1>
 <h3 align="center">Fullstack Developer | Data & AI Enthusiast 🚀</h3>
 
 <p align="center">
