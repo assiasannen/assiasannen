@@ -8,10 +8,7 @@
 </h3>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=FF3CAC&center=true&vCenter=true&width=750&lines=Développeuse+Fullstack;Passionnée+par+la+Data+et+l'IA;Curieuse,+rigoureuse+et+orientée+solution+🚀" 
-    alt="Typing SVG"
-  />
+ 
 </p>
 
 <p align="center">
@@ -76,13 +73,6 @@
 
 ---
 
-## 👀 Compteur de visites
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/assiasannen/count.svg" />
-</p>
-
----
 
 <p align="center">
   ✨ Curieuse • Rigoureuse • Toujours en apprentissage
