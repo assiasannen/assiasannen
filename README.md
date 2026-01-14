@@ -1,21 +1,30 @@
-<!-- ===================== HERO ===================== -->
+<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff4dd2&height=200&section=header&text=Essia%20Sannen&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4dd2,100:7f00ff&height=220&section=header&text=Essia%20Sannen&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
-<h3>🚀 Full-Stack Developer | Data & Artificial Intelligence</h3>
+<h3>Full-Stack Developer • Information Systems & Data Science</h3>
 
 <p>
-  Building scalable, data-driven systems with clean architecture and real-world impact.
+  Designing scalable software systems and data-driven applications with real-world impact.
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF4DD2&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Data+Engineering+Enthusiast;AI+%26+Problem+Solving;Always+Learning+%F0%9F%92%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=FF4DD2&center=true&vCenter=true&width=650&lines=Master+ISIDS+Student;Full-Stack+Web+Developer;Data+Engineering+%26+AI+Enthusiast;Clean+Architecture+%7C+Scalable+Systems" />
 
 </div>
 
 ---
 
-## ⚡ Tech Stack
+## 👩‍🎓 Education
+
+🎓 **Master Professionnel – Ingénierie des Systèmes d'Information & Data Science (ISIDS)**  
+📍 **FSEGT**, Tunis, Tunisia  
+
+> A professional engineering-oriented program focused on software architecture, data engineering, analytics, and intelligent systems.
+
+---
+
+## ⚡ Technical Stack
 
 <div align="center">
 
@@ -25,7 +34,23 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 🧠 Core Competencies
+
+- **Full-Stack Development**  
+  Angular • React • Spring Boot • REST APIs
+
+- **Data & Analytics**  
+  Python • SQL • Spark • ETL Pipelines • Data Modeling
+
+- **Security & Architecture**  
+  JWT Authentication • Role-Based Access • Clean Architecture
+
+- **DevOps Foundations**  
+  Docker • Git • CI-friendly workflows
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -37,15 +62,26 @@
 
 ---
 
-## 👩‍💻 About Me
+## 🎯 Career Objective
+
+I am seeking:
+- 🎓 **Internship / PFE**
+- 💼 **Junior Full-Stack or Data Engineer roles**
+- 🚀 Projects involving **Web Platforms**, **Data Engineering**, or **AI-driven solutions**
+
+I am particularly interested in environments that value **learning**, **ownership**, and **clean system design**.
+
+---
+
+## 🌍 About Me
 
 ```yaml
 Name: Essia Sannen
-Education: Master's in Data Science
-University: FSEGT
+Degree: Professional Master's
+Field: Information Systems Engineering & Data Science (ISIDS)
 Location: Tunis, Tunisia
-Interests:
-  - Full-Stack Development
-  - Data Engineering
-  - Artificial Intelligence
-Career Goal: Full-Stack & Data Engineer
+Mindset:
+  - Problem Solver
+  - Detail-Oriented
+  - Continuous Learner
+
