@@ -9,7 +9,7 @@
   Designing scalable software systems and data-driven applications with real-world impact.
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=FF4DD2&center=true&vCenter=true&width=650&lines=Master+ISIDS+Student;Full-Stack+Web+Developer;Data+Engineering+%26+AI+Enthusiast;Clean+Architecture+%7C+Scalable+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=FF4DD2&center=true&vCenter=true&width=650&lines=ISIDS+Master's+Student;Full-Stack+Web+Developer;Data+Engineering+%26+AI+Enthusiast;Clean+Architecture+%7C+Scalable+Systems" />
 
 </div>
 
@@ -17,10 +17,10 @@
 
 ## 👩‍🎓 Education
 
-🎓 **Master Professionnel – Ingénierie des Systèmes d'Information & Data Science (ISIDS)**  
+🎓 **Professional Master’s Degree – Information Systems Engineering & Data Science (ISIDS)**  
 📍 **FSEGT**, Tunis, Tunisia  
 
-> A professional engineering-oriented program focused on software architecture, data engineering, analytics, and intelligent systems.
+> A professional, engineering-oriented master’s program focused on software architecture, data engineering, analytics, and intelligent systems.
 
 ---
 
@@ -43,7 +43,7 @@
   Python • SQL • Spark • ETL Pipelines • Data Modeling
 
 - **Security & Architecture**  
-  JWT Authentication • Role-Based Access • Clean Architecture
+  JWT Authentication • Role-Based Access Control • Clean Architecture
 
 - **DevOps Foundations**  
   Docker • Git • CI-friendly workflows
@@ -64,12 +64,12 @@
 
 ## 🎯 Career Objective
 
-I am seeking:
-- 🎓 **Internship / PFE**
+I am currently seeking:
+- 🎓 **Internship / Final-Year Project (PFE)**
 - 💼 **Junior Full-Stack or Data Engineer roles**
 - 🚀 Projects involving **Web Platforms**, **Data Engineering**, or **AI-driven solutions**
 
-I am particularly interested in environments that value **learning**, **ownership**, and **clean system design**.
+I am particularly interested in environments that value **continuous learning**, **ownership**, and **clean system design**.
 
 ---
 
